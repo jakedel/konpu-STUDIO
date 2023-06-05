@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="642" src="https://github.com/jakedel/konpu-STUDIO/raw/master/res/logo.png" />
+</p>
+
 ALT: chord preview
 
 SHIFT: vertical zoom (with +-)

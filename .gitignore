@@ -18,7 +18,11 @@ bin/
 *.bin
 *.binary
 
+!**/res/*.png
+
 apps/
 
 .DS_Store
 .vscode/
+
+CMakeFiles/
