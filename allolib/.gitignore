@@ -1,0 +1,52 @@
+# don't ignore `bin` anywhere in folder tree
+!**/bin
+# but ignore things inside folder named bin
+**/bin/*
+# while not ignoring things inside bin/data
+!**/bin/data
+
+**/build
+**/build_ninja
+!external/glew/build
+**/ninja
+
+# only top level al folder
+/al/
+
+# cmake stuff
+CMakeFiles/
+test/CMakeFiles/
+cmake_install.cmake
+test/cmake_install.cmake
+CMakeCache.txt
+test/CMakeCache.txt
+Makefile
+test/Makefile
+CmakeSettings.json
+
+external/glew/glew.pc
+
+# file formats
+*.a
+*.lib
+*.so
+*.dylib
+*.exe
+*.ilk
+*.pdb
+
+# documentation
+doc/html
+
+# ide stuff
+**/Debug
+.vs/
+*.vcxproj
+*.filters
+*.sln
+*.db
+x64
+al.dir/
+.vscode
+
+temp
