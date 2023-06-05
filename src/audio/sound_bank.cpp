@@ -5,7 +5,7 @@
 
 using namespace al;
 
-// 39 patches
+// 38 patches (0-37)
 std::vector<Patch*> SOUND_BANK = {
   new PatchListSeparator("FEATURED"),
   new Timbre(37, "Lo-Fi", "Lo-Fi Piano", {41, 46, 48, 57, 68}),
