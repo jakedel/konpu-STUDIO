@@ -239,7 +239,7 @@ public:
     createInternalTriggerParameter("patch", 37, 0, 255);
     createInternalTriggerParameter("amplitude", 1, 0.0, 20.0);
     createInternalTriggerParameter("attackTime", 0.001, 0.001, 3.0);
-    createInternalTriggerParameter("releaseTime", 0.11, 0.001, 10.0);
+    createInternalTriggerParameter("releaseTime", 0.13, 0.001, 10.0);
     createInternalTriggerParameter("pan", 0.0, -1.0, 1.0);
     createInternalTriggerParameter("interpolate", 1, 0, 1);
     createInternalTriggerParameter("tune", 0, -12, 12);

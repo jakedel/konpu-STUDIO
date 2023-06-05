@@ -173,7 +173,7 @@ public:
       Channel channel = Channel();
       channel.patch = 37;
       channel.attack = 0.001f;
-      channel.release = 0.f;
+      channel.release = 0.13f;
       channel.volume = 1.f;
       channel.pan = 0.f;
       channel.tune = 0.f;
