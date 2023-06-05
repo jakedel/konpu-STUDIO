@@ -62,7 +62,7 @@ public:
   int progressSize = 0;
 
   // Musical typing
-  int octaveShift = -2;
+  int octaveShift = -1;
 
   // Pass through keyboard state
   std::set<std::string> modifiers = {};
