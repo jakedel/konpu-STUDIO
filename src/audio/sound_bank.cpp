@@ -86,10 +86,10 @@ std::vector<Patch*> SOUND_BANK = {
   new Timbre(19, "Lo-Fi", "Enchanted Circuit", {65, 70}),
   new Timbre(27, "Lo-Fi", "Enchanted Wire", {75, 82, 85, 92}),
   new Timbre(21, "Lo-Fi", "Enchanted Lead", {60, 77, 78, 79, 80}),
-  new Timbre(26, "Lo-Fi", "Unsettling Bass", {39, 42, 44, 48, 49, 51, 56, 57}, 12),
   new Timbre(34, "Lo-Fi", "PATCH34", {58, 61, 65, 68, 75, 80, 87}),
-  new Timbre(24, "Lo-Fi", "Mystic Lead", {87, 94}),
-  new Timbre(25, "Lo-Fi", "Sweet Dreams", {70, 85}),
+  new Timbre(26, "Lo-Fi", "Unsettling Bass", {39, 42, 44, 48, 49, 51, 56, 57}, 12),
+  // new Timbre(24, "Lo-Fi", "Mystic Lead", {87, 94}),
+  // new Timbre(25, "Lo-Fi", "Sweet Dreams", {70, 85}),
 };
 
 std::map<int, Patch*> SOUND_BANK_MAP = {};
