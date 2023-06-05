@@ -9,13 +9,13 @@ Designed and developed by Jake Delgado
 
 UCSB Intro to Allolib S22 Project.
 
-## Introduction
+## 🎹 Introduction
 
 KONPU-studio is a cross-platform digital music production and sequencer tool built with Allolib.
 
 My goal is to create a toolkit for musicians and non-programmers to create dynamic, interactive music and audio for applications on the Allosphere platform.
 
-## Features
+## ✨ Features
 
 ### User Interface
 
@@ -44,7 +44,7 @@ My goal is to create a toolkit for musicians and non-programmers to create dynam
 
 - **Linear interpolation:** When playing samples at slower speeds, new sample frames are created between existing ones to make sound "smoother"
 
-## Build & Run
+## 🌀 Build & Run
 
 Tested on macOS on MacBook Pro 14" (2021, M1 Max) and MacBook Air (2018, Intel).
 
@@ -63,7 +63,7 @@ Should also work on Linux and possibly Windows.
 ./run.sh
 ```
 
-## Limitations
+## ⛔️ Limitations
 
 **These are pretty significant and are top priority to fix. Pull requests are appreciated!**
 
@@ -76,11 +76,11 @@ Should also work on Linux and possibly Windows.
   - **If you want to create a new project,** save the current project, then rename the current `song.json` to something else so it isn't overwritten.
   - Then, **restart the app** to start a fresh project.
 
-## Bugs
+## 🪲 Bugs
 
 - Stopping will cause notes on certain instruments to hang
 
-## Keyboard Shortcuts
+## ⌨️ Keyboard Shortcuts
 
 `SPACE`: Play/stop
 
