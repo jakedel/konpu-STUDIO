@@ -2,7 +2,7 @@
   <img width="642" src="https://github.com/jakedel/konpu-STUDIO/raw/main/res/logo.png" />
 </p>
 
-# KONPU-studio
+# konpu-STUDIO
 **Music Production Studio for Allolib**
 
 Designed and developed by Jake Delgado
@@ -11,7 +11,7 @@ UCSB Intro to Allolib S22 Project.
 
 ## 🎹 Introduction
 
-KONPU-studio is a cross-platform digital music production and sequencer tool built with Allolib.
+konpu-STUDIO is a cross-platform digital music production and sequencer tool built with Allolib.
 
 My goal is to create a toolkit for musicians and non-programmers to create dynamic, interactive music and audio for applications on the Allosphere platform.
 
@@ -34,6 +34,8 @@ My goal is to create a toolkit for musicians and non-programmers to create dynam
 - **Arrangement:** Break up a song into smaller sections, which can be reordered, copied, and erased
 
 ### Audio
+**konpu-STUDIO uses a custom PCM sampling synthesizer built in Allolib as a synth voice.**
+
 - Load WAV sample files (48khz, mono/stereo)
 
 - Play samples at different pitches
