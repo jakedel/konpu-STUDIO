@@ -46,6 +46,12 @@ My goal is to create a toolkit for musicians and non-programmers to create dynam
 
 - **Linear interpolation:** When playing samples at slower speeds, new sample frames are created between existing ones to make sound "smoother"
 
+## 🎬 Demo Video
+
+![🪷𝑳0𝑻𝑼𝑺 𝓕𝑳O 𝑾𝑬𝑹—𝓙𝓧𝓝– 𝟓 1 7 (konpu-STUDIO DEMO) - YouTube](https://youtu.be/9E5Ht68v2qE)
+
+[![Watch video)](https://img.youtube.com/vi/9E5Ht68v2qE/0.jpg)](https://youtu.be/9E5Ht68v2qE)
+
 ## 🌀 Build & Run
 
 Tested on macOS on MacBook Pro 14" (2021, M1 Max) and MacBook Air (2018, Intel).
