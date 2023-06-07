@@ -48,9 +48,9 @@ My goal is to create a toolkit for musicians and non-programmers to create dynam
 
 ## 🎬 Demo Video
 
-[🪷𝑳0𝑻𝑼𝑺 𝓕𝑳O 𝑾𝑬𝑹—𝓙𝓧𝓝– 𝟓 1 7 (konpu-STUDIO DEMO) - YouTube](https://youtu.be/9E5Ht68v2qE)
+[🪷𝑳0𝑻𝑼𝑺 𝓕𝑳O 𝑾𝑬𝑹—𝓙𝓧𝓝– 𝟓 1 7 (konpu-STUDIO DEMO) - YouTube](https://youtu.be/iNqPgBINWqI)
 
-[![Watch video)](https://img.youtube.com/vi/9E5Ht68v2qE/0.jpg)](https://youtu.be/9E5Ht68v2qE)
+[![Watch video)](https://img.youtube.com/vi/iNqPgBINWqI/0.jpg)](https://youtu.be/iNqPgBINWqI)
 
 ## 🌀 Build & Run
 
