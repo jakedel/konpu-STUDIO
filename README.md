@@ -54,7 +54,7 @@ My goal is to create a toolkit for musicians and non-programmers to create dynam
 
 ## 🌀 Build & Run
 
-Tested on macOS on MacBook Pro 14" (2021, M1 Max) and MacBook Air (2018, Intel).
+Tested on macOS on MacBook Pro 14" (2021, M1 Max) with Ventura 13, MacBook Air (2018, Intel) with Monterey 12, and MacBook (2015, Intel) with Mojave 10.14.
 
 Should also work on Linux and possibly Windows.
 
